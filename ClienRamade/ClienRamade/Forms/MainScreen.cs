@@ -36,7 +36,7 @@ namespace ClienRamade
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //dsadsada
         }
 
         private void button1_Click(object sender, EventArgs e)
